@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @crimeiscool
-- 🌱 I’m currently learning html
-- 📫 My discord crime_187
+- 👋 Hi, I’m Benny
+- 🌱 I’m doing some random stuff and more !
+- 📫 My discord celestino_144
 
 
 
