@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Benny
-- 🌱 I’m doing some random stuff and more !
+- 🌱 I’m doing some Scripts and Multitools 
 - 📫 My discord celestino_144
 
 
